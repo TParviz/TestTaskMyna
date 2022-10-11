@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestTaskMyna</string>
+    <string name="directory_fragment_label">Gallery</string>
+    <string name="action_settings">Settings</string>
+    <string name="gallery_fragment_label">Gallery</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="uploading_file">Uploading File....</string>
+    <string name="successfully_uploaded">Successfully Uploaded</string>
+    <string name="failed_upload">Failed to Upload</string>
+    <string name="copy_text">Text copied to clipboard</string>
+</resources>

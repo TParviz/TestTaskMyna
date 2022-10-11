@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527877716842",
+    "project_id": "munatestproject",
+    "storage_bucket": "munatestproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527877716842:android:74a05916c319334e834313",
+        "android_client_info": {
+          "package_name": "com.test.testtaskmyna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527877716842-murnrapf4j7qehla9afl66ddu2g6vu0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDojtNrFtSBZMMjGhfvmd5pmEhpmOdCAUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527877716842-murnrapf4j7qehla9afl66ddu2g6vu0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
